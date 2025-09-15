@@ -1,2 +1,9 @@
 # T-rinf-2025
-Térinfó
+Térinformatikai alkalmazások próba reprozitórium
+
+A tárgy lényeges pontjai:
+- WebGIS smerttése
+- Internet alapismeretek
+- git ismeretek
+- HTML kód készítés
+- Java
